@@ -5,6 +5,8 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/LucasCBraga/BackgroundChanger?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/LucasCBraga/BackgroundChanger?style=for-the-badge)
 
+<hr>
+
 ![gif background](https://user-images.githubusercontent.com/113993228/200025456-1564be2c-3935-4de1-8cda-cdf160fee48a.gif)
 
 
