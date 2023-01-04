@@ -27,3 +27,5 @@ com isso aumentei minhas habilidades com o JS.
 
 Link para site
 https://lucascbraga.github.io/BackgroundChanger/
+
+<hr>
